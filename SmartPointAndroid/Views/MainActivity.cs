@@ -1,3 +1,4 @@
+using AndroidX.AppCompat.App;
 
 namespace SmartPointAndroid.Views;
 
